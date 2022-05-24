@@ -25,7 +25,6 @@ The Design team has sent us the new interface that needs to be implemented. As y
         - Phone number
     - **Step 6:**
         - Thank you page
-- Regis
 
 Here you could see the design of this process:
 
